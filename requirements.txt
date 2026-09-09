@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+datasets
+evaluate
+accelerate
+jinja2
+python-multipart
